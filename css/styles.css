@@ -59,7 +59,7 @@ body {
 }
 
 .gallery__link:hover {
-    cursor: zoom-in;
+    cursor: pointer;
 }
 
 
